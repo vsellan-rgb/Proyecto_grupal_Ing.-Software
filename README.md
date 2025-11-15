@@ -1,2 +1,1 @@
-# Proyecto_grupal_Ing.-Software
-proyecto ingenieria en software 2 
+# Proyecto Software II - Fase 2
